@@ -1,4 +1,13 @@
+Grande domínio em JAVA;
+Com conhecimentos em:
+spring boot, spring security, spring rest, Design pattern, MySQL(DDL,DML ,DQL,DTL ,DCL ), h2, SQLite, tomcat, Jdbc, jpa/hibernate, javaFx, Regex, Java Mail, Threads, Uml, Java Beans, Postman, Linux 
 
-Ola sou gabriel , programo java (se,ee,mobile) possuo conhecimentos em javaScript,Css3 e html. para os banco de dados sei MySQL e para o Designer sei Photoshop.
-atualmente estou desenvolvendo um aplica mobile que é uma loja de chocolates, logo mais irei adiciona-lo ao reposiório.
-também estou aberto a trabalhos registrados ou não.
+Photoshop, Illustrator
+
+Html5, Css3, Javascript
+
+volley, fragment, Intents, Notificações, AsyncTask e AsyncTaskLoader, AlarmManager, Dialogs, SnackBar
+
+Office 365 Avançado + visual basic
+
+pix gerencianet e Paypal
