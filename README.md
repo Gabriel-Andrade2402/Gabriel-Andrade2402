@@ -1,13 +1,17 @@
 Grande domínio em JAVA;
 Com conhecimentos em:
-spring boot, spring security, spring rest, Design pattern, MySQL(DDL,DML ,DQL,DTL ,DCL ), h2, SQLite, tomcat, Jdbc, jpa/hibernate, javaFx, Regex, Java Mail, Threads, Uml, Java Beans, Postman, Linux 
+Design pattern, tomcat, Jdbc, jpa/hibernate, javaFx, Regex, Java Mail, Threads, Uml, XML, Json, Java Beans, Postman, Linux
 
-Photoshop, Illustrator
+Frameworks: Spring(spring security, spring cloud, Rest), React-native ,React e Bootstrap;
 
-Html5, Css3, Javascript
+Database: Oracle, MySQL,PostgreeSQL, h2, SQLite; (DDL,DML ,DQL,DTL ,DCL )
 
-volley, fragment, Intents, Notificações, AsyncTask e AsyncTaskLoader, AlarmManager, Dialogs, SnackBar
+Design: Photoshop, Illustrator, After effect;
 
-Office 365 Avançado + visual basic
+Web: Html5, Css3, Javascript, Jquery, Ajax;
 
-pix gerencianet e Paypal
+Android nativo + bibliotecas
+
+Office 365 Avançado + visual basic;
+
+Integração com pagamento: pix gerencianet e Paypal
