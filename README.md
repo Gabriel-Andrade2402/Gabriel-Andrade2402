@@ -1,6 +1,4 @@
-Grande domínio em JAVA;
-Com conhecimentos em:
-Design pattern, tomcat, Jdbc, jpa/hibernate, javaFx, Regex, Java Mail, Threads, Uml, XML, Json, Java Beans, Postman, Linux
+Dominio em JAVA ; Javascript ; PL/SQL;
 
 Frameworks: Spring(spring boot,spring security, spring cloud, Rest), React-native ,React e Bootstrap;
 
